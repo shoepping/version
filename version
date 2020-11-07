@@ -1,5 +1,5 @@
 # https://mcr.microsoft.com/v2/azure-cli/tags/list / https://github.com/Azure/azure-cli/releases
-AZURE_CLI_VERSION=2.14.0
+AZURE_CLI_VERSION=2.14.1
 
 # https://hub.docker.com/_/busybox?tab=tags
 BUSYBOX_VERSION=1.31.1
@@ -14,7 +14,7 @@ SELENIUM_VERSION=3.141.59-20201010
 TERRAFORM_VERSION=0.13.5
 
 # https://github.com/terraform-providers/terraform-provider-azurerm/releases
-TERRAFORM_PROVIDER_AZURERM_VERSION=2.34.0
+TERRAFORM_PROVIDER_AZURERM_VERSION=2.35.0
 
 # https://github.com/hashicorp/terraform-provider-cloudinit/releases
 TERRAFORM_PROVIDER_CLOUDINIT_VERSION=2.0.0
