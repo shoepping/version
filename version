@@ -18,3 +18,9 @@ TERRAFORM_PROVIDER_AZURERM_VERSION=2.35.0
 
 # https://github.com/hashicorp/terraform-provider-cloudinit/releases
 TERRAFORM_PROVIDER_CLOUDINIT_VERSION=2.0.0
+
+# https://github.com/terraform-providers/terraform-provider-kubernetes/releases
+TERRAFORM_PROVIDER_KUBERNETES_VERSION=1.13.2
+
+# https://github.com/terraform-providers/terraform-provider-helm/releases
+TERRAFORM_PROVIDER_HELM_VERSION=1.3.2
