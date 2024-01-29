@@ -1,26 +1,26 @@
 # https://mcr.microsoft.com/v2/azure-cli/tags/list / https://github.com/Azure/azure-cli/releases
-AZURE_CLI_VERSION=2.18.0
+AZURE_CLI_VERSION=2.56.0
 
 # https://hub.docker.com/_/busybox?tab=tags
-BUSYBOX_VERSION=1.31.1
+BUSYBOX_VERSION=1.35.0
 
 # https://hub.docker.com/r/hashicorp/packer/tags
-PACKER_VERSION=1.6.6
+PACKER_VERSION=1.10
 
 # https://hub.docker.com/r/selenium/hub/tags
 SELENIUM_VERSION=4.17.0
 
 # https://hub.docker.com/r/hashicorp/terraform/tags
-TERRAFORM_VERSION=0.14.6
+TERRAFORM_VERSION=1.7
 
 # https://github.com/terraform-providers/terraform-provider-azurerm/releases
-TERRAFORM_PROVIDER_AZURERM_VERSION=2.46.1
+TERRAFORM_PROVIDER_AZURERM_VERSION=3.89.0
 
 # https://github.com/hashicorp/terraform-provider-cloudinit/releases
-TERRAFORM_PROVIDER_CLOUDINIT_VERSION=2.1.0
+TERRAFORM_PROVIDER_CLOUDINIT_VERSION=2.3.3
 
 # https://github.com/terraform-providers/terraform-provider-kubernetes/releases
-TERRAFORM_PROVIDER_KUBERNETES_VERSION=2.0.1
+TERRAFORM_PROVIDER_KUBERNETES_VERSION=2.25.2
 
 # https://github.com/terraform-providers/terraform-provider-helm/releases
-TERRAFORM_PROVIDER_HELM_VERSION=2.0.2
+TERRAFORM_PROVIDER_HELM_VERSION=2.12.1
