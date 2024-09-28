@@ -5,22 +5,22 @@ AZURE_CLI_VERSION=2.64.0
 BUSYBOX_VERSION=1.35.0
 
 # https://hub.docker.com/r/hashicorp/packer/tags
-PACKER_VERSION=1.9.2
+PACKER_VERSION=1.11.2
 
 # https://hub.docker.com/r/selenium/hub/tags
 SELENIUM_VERSION=4.17.0
 
 # https://hub.docker.com/r/hashicorp/terraform/tags
-TERRAFORM_VERSION=1.7
+TERRAFORM_VERSION=1.9
 
 # https://github.com/terraform-providers/terraform-provider-azurerm/releases
-TERRAFORM_PROVIDER_AZURERM_VERSION=3.89.0
+TERRAFORM_PROVIDER_AZURERM_VERSION=4.3.0
 
 # https://github.com/hashicorp/terraform-provider-cloudinit/releases
-TERRAFORM_PROVIDER_CLOUDINIT_VERSION=2.3.3
+TERRAFORM_PROVIDER_CLOUDINIT_VERSION=2.3.5
 
 # https://github.com/terraform-providers/terraform-provider-kubernetes/releases
-TERRAFORM_PROVIDER_KUBERNETES_VERSION=2.25.2
+TERRAFORM_PROVIDER_KUBERNETES_VERSION=2.32.0
 
 # https://github.com/terraform-providers/terraform-provider-helm/releases
-TERRAFORM_PROVIDER_HELM_VERSION=2.12.1
+TERRAFORM_PROVIDER_HELM_VERSION=2.15.0
